@@ -11,21 +11,20 @@ Short bio.
 
 HI.
 ======
-Some additional info
+Hi. I am a research associate in the research programme “Societal Cohesion in Digital Media Environments” at the Center for Advanced Internet Studies (CAIS) and focus on polarization and societal cohesion. As a PhD student at the Computational Communication Science Lab at the University of Vienna, I am researching the potentials and challenges of automated detection of discrimination and hate speech. My research interests also include political phenomena in media discourses and methodological questions, especially in the field of automated content analysis and computational social science. 
 
 coming up.
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+26.04.2025 – Roundtable Discussion / Marginalized Voices and Perspectives in Computational Methods / COMPTEXT2025 @ University of Vienna, Austria
+11.05.2025 - Poster Presentation / Title / CSS & Inequality @ University of Mannheim, Germany
+13.05.2025 - Workshop host on / Title / Center for Advanced Internet Studies (CAIS), Germany
+10.06.2025 - Presentation / Title / ICA @ Denver, Colorado
+28.08.2025 - Presentation / Title / ECPR  @ Thessaloniki, Greece
 
-updates.
+working papers and topics.
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-dui dui
+
+recent stuff
 ------
 dui dui.
