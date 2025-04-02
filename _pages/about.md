@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Short bio.
+THIS PAGE IS UNDER CONSTRUCTION :)
 
 HI.
 ======
@@ -16,15 +16,15 @@ Hi. I am a research associate in the research programme “Societal Cohesion in 
 coming up.
 ======
 26.04.2025 – Roundtable Discussion / Marginalized Voices and Perspectives in Computational Methods / COMPTEXT2025 @ University of Vienna, Austria
-11.05.2025 - Poster Presentation / Title / CSS & Inequality @ University of Mannheim, Germany
-13.05.2025 - Workshop host on / Title / Center for Advanced Internet Studies (CAIS), Germany
-10.06.2025 - Presentation / Title / ICA @ Denver, Colorado
-28.08.2025 - Presentation / Title / ECPR  @ Thessaloniki, Greece
+
+11.05.2025 - Poster Presentation /  / CSS & Inequality @ University of Mannheim, Germany
+
+13.05.2025 - Workshop host on / / Center for Advanced Internet Studies (CAIS), Germany
+
+10.06.2025 - Presentation /  / ICA @ Denver, Colorado
+
+28.08.2025 - Presentation /  / ECPR  @ Thessaloniki, Greece
 
 working papers and topics.
 ------
 
-
-recent stuff
-------
-dui dui.
