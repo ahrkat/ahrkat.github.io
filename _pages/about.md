@@ -22,3 +22,10 @@ coming up.
 <b>10.06.2025</b> - Research Presentation / 75th Annual Conference of International Communication Association (ICA) at Denver, Colorado
 
 <b>28.08.2025</b> - Research Presentation / European Consortium for Political Research (ECPR) at Thessaloniki, Greece
+
+latest publications.
+======
+<br>Lind, F., Song, H., Boomgaarden, H., <b>Kathirgamalingam, A.</b>, Song, H., Syed Ali, K., & Vliegenthart, R. (2025). Research Practices in Comparative Communication Research: Visibility, Topical and Geographical Disparities, and their Longitudinal Patterns. International Journal of Communication, 19(26), 1103-1128. <a href="https://ijoc.org/index.php/ijoc/article/view/23510" target="_blank">https://ijoc.org/index.php/ijoc/article/view/23510</a>
+<br><br>
+<b>Kathirgamalingam, A.</b>, Lind, F., Bernhard-Harrer, J., & Boomgaarden, H. G. (2024). Agree to Disagree? Human and LLM coder bias for constructs of marginalization. <a href="https://doi.org/10.31235/osf.io/agpyr" target="_blank">https://doi.org/10.31235/osf.io/agpyr</a>
+<br><br>
