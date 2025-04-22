@@ -9,7 +9,7 @@ redirect_from:
 
 Hi. This is me.
 ======
-I am a research associate at the Center for Advanced Internet Studies (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the ‘Computational Communication Science Lab’ at the University of Vienna, she is exploring the chances and challenges of automating racism detection in textual data. Her research interests include the interplay between social bias and CSS and other methodological questions, as well as political media discourses on topics such as migration or polarization. 
+I am a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, she is exploring the chances and challenges of automating racism detection in textual data. Her research interests include the interplay between social bias and CSS and other methodological questions, as well as political media discourses on topics such as migration or polarization. 
 
 
 coming up.
