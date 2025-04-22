@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+.nojekyll
 ---
 
 
@@ -23,4 +24,3 @@ coming up.
 10.06.2025 - Research Presentation | International Communication Association (ICA) @ Denver, Colorado
 
 28.08.2025 - Research Presentation | European Consortium for Political Research (ECPR) @ Thessaloniki, Greece
-
