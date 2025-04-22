@@ -13,7 +13,7 @@ Hi. I am a research associate at the <a href="https://www.cais-research.de/" tar
 
 coming up.
 ======
-<b>26.04.2025</b> – Roundtable Discussion /| Marginalized Voices and Perspectives in Computational Methods / <a href="https://www.comptextconference.org/7th-annual-comptext-conference-2025/" target="_blank">COMPTEXT2025</a> at University of Vienna, Austria
+<b>26.04.2025</b> – Roundtable Discussion / Marginalized Voices and Perspectives in Computational Methods / <a href="https://www.comptextconference.org/7th-annual-comptext-conference-2025/" target="_blank">COMPTEXT2025</a> at University of Vienna, Austria
 
 <b>15. & 16.05.2025</b> - Poster Presentation / Tracing Racism in Textual Data: A CSS Perspective / <a href ="https://computational-social-science.org/workshops/2025.html" target="_blank">CSS & Inequality</a> at University of Mannheim, Germany
 
