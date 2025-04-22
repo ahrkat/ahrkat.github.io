@@ -21,7 +21,8 @@ coming up.
 
 <b>June 2025</b> - Research Presentation / 75th Annual Conference of International Communication Association (ICA) at Denver, Colorado
 
-<b>August 2025</b> - Research Presentation / European Consortium for Political Research (ECPR) at Thessaloniki, Greece
+<b>August 2025</b> - Research Presentation / European Consortium for Political Research (ECPR) at Thessaloniki, Greece<br>
+
 
 latest publications.
 ======
