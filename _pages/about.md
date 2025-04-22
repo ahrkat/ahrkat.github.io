@@ -24,4 +24,3 @@ coming up.
 
 <b>28.08.2025</b> - Research Presentation | European Consortium for Political Research (ECPR) @ Thessaloniki, Greece
 
-
