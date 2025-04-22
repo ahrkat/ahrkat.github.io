@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-THIS PAGE IS UNDER CONSTRUCTION :)
-
-HI.
+Hi. This is me.
 ======
-Hi. I am a research associate in the research programme “Societal Cohesion in Digital Media Environments” at the Center for Advanced Internet Studies (CAIS) and focus on polarization and societal cohesion. As a PhD student at the Computational Communication Science Lab at the University of Vienna, I am researching the potentials and challenges of automated detection of discrimination and hate speech. My research interests also include political phenomena in media discourses and methodological questions, especially in the field of automated content analysis and computational social science. 
+I am a research associate at the Center for Advanced Internet Studies (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the ‘Computational Communication Science Lab’ at the University of Vienna, she is exploring the chances and challenges of automating racism detection in textual data. Her research interests include the interplay between social bias and CSS and other methodological questions, as well as political media discourses on topics such as migration or polarization. 
+
 
 coming up.
 ======
