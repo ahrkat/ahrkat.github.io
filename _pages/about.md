@@ -14,14 +14,14 @@ I am a research associate at the Center for Advanced Internet Studies (Germany) 
 
 coming up.
 ======
-26.04.2025 – Roundtable Discussion / Marginalized Voices and Perspectives in Computational Methods / COMPTEXT2025 @ University of Vienna, Austria
+26.04.2025 – Roundtable Discussion || Marginalized Voices and Perspectives in Computational Methods || <a href="https://www.comptextconference.org/7th-annual-comptext-conference-2025/">COMPTEXT2025</a> @ University of Vienna, Austria
 
-11.05.2025 - Poster Presentation / Tracing Racism in Textual Data: A CSS Perspective / CSS & Inequality @ University of Mannheim, Germany
+11.05.2025 - Poster Presentation || Tracing Racism in Textual Data: A CSS Perspective || CSS & Inequality @ University of Mannheim, Germany
 
-13.05.2025 - Workshop / From Awareness to Action: Addressing Discrimination and Power in Academia / Center for Advanced Internet Studies (CAIS), Germany
+13.05.2025 - Workshop || From Awareness to Action: Addressing Discrimination and Power in Academia || Center for Advanced Internet Studies (CAIS), Germany
 
-10.06.2025 - Presentation / ICA @ Denver, Colorado
+10.06.2025 - Presentation || ICA @ Denver, Colorado
 
-28.08.2025 - Presentation / ECPR  @ Thessaloniki, Greece
+28.08.2025 - Presentation || ECPR  @ Thessaloniki, Greece
 
 
