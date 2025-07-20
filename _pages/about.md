@@ -29,7 +29,9 @@ recent.
 
 latest publications.
 ======
-<br>Lind, F., Song, H., Boomgaarden, H., <b>Kathirgamalingam, A.</b>, Song, H., Syed Ali, K., & Vliegenthart, R. (2025). Research Practices in Comparative Communication Research: Visibility, Topical and Geographical Disparities, and their Longitudinal Patterns. International Journal of Communication, 19(26), 1103-1128. <a href="https://ijoc.org/index.php/ijoc/article/view/23510" target="_blank">https://ijoc.org/index.php/ijoc/article/view/23510</a>
+<br><b>Kathirgamalingam, A.</b>, Lind, F., & Boomgaarden, H. G. (2025). Measuring racism and related concepts using computational text-as-data approaches: a systematic literature review. Annals of International Communication Association, wlaf013, <a href=" https://doi.org/10.1093/anncom/wlaf013" target="_blank">https://doi.org/10.1093/anncom/wlaf013</a>
+<br><br>
+<br>Lind, F., Song, H., Boomgaarden, H. G., <b>Kathirgamalingam, A.</b>, Song, H., Syed Ali, K., & Vliegenthart, R. (2025). Research Practices in Comparative Communication Research: Visibility, Topical and Geographical Disparities, and their Longitudinal Patterns. International Journal of Communication, 19(26), 1103-1128. <a href="https://ijoc.org/index.php/ijoc/article/view/23510" target="_blank">https://ijoc.org/index.php/ijoc/article/view/23510</a>
 <br><br>
 <b>Kathirgamalingam, A.</b>, Lind, F., Bernhard-Harrer, J., & Boomgaarden, H. G. (2024). Agree to Disagree? Human and LLM coder bias for constructs of marginalization. [Preprint] <a href="https://doi.org/10.31235/osf.io/agpyr" target="_blank">https://doi.org/10.31235/osf.io/agpyr</a> 
 <br><br>
