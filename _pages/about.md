@@ -13,10 +13,10 @@ Hi. I am a research associate at the <a href="https://www.cais-research.de/" tar
 
 coming up.
 ======
-<br><b>June 2025</b> - Research Presentation / 75th Annual Conference of International Communication Association (ICA) in Denver, Colorado
+<br><b>August 2025</b> - Research Presentation / European Consortium for Political Research (ECPR) in Thessaloniki, Greece
 
-<b>August 2025</b> - Research Presentation / European Consortium for Political Research (ECPR) in Thessaloniki, Greece
-
+<br>
+<b>October 2025</b> - Interdisciplinary Conference: Creating Spaces for Digital Futures / Center for Advanced Internet Studies (CAIS) / Bochum, Germany
 
 recent.
 ======
