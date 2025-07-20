@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br />
-Hi. I am a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, I am investigating the chances and challenges of automating racism detection in textual data. My research interests include political phenomena such as polarization and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
+Hi. I am a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, I am investigating the chances and challenges of automating racism detection in textual data. Further, I am an external lecturer at <a href="https://www.sozwiss.hhu.de/" target ="_blank">Heinrich-Heine-University Düsseldorf</a>. My research interests include political phenomena such as polarization and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
 
 
 coming up.
