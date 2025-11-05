@@ -11,19 +11,19 @@ redirect_from:
 Hi. I am a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, I am investigating the chances and challenges of automating racism detection in textual data. Further, I am an external lecturer at <a href="https://www.sozwiss.hhu.de/" target ="_blank">Heinrich-Heine-University Düsseldorf</a>. My research interests include political phenomena such as polarization and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
 
 
-coming up.
-======
-<br><b>August 2025</b> - Research Presentation / European Consortium for Political Research (ECPR) in Thessaloniki, Greece
-
-<b>October 2025</b> - Interdisciplinary Conference: Creating Spaces for Digital Futures / Center for Advanced Internet Studies (CAIS) / Bochum, Germany
-
 recent.
 ======
-<br><b>15. & 16.05.2025</b> - <a href="files/Inequality_CSS_Kathirgamalingam_Poster.pdf" target ="_blank">Poster Presentation</a> / Tracing Racism in Textual Data: A CSS Perspective / <a href ="https://computational-social-science.org/workshops/2025.html" target="_blank">CSS & Inequality</a> at University of Mannheim, Germany
+<br><b>10.10.2025</b> - Moderation / Academic Freedom: Foundations for the Future / with Ina Brandes (Minister for Culture and Science of the State of North Rhine-Westphalia) , Manfred Bayer (TU Dortmund, Germany), Katrin Weller (Heinrich-Heine-University Düsseldorf, Germany | GESIS, Germany) & Tim Majchrzak (CAIS, Germany) / <a href ="https://www.cais-research.de/creating-spaces-for-digital-futures-program" target="_blank">Creating Spaces for Digital Futures</a> at Center for Advanced Internet Studies (CAIS), Bochum, Germany
+
+<br><b>09.10.2025</b> - Paper Presentation / Unpacking the Blame Game? Opportunities and Barriers to Automated Detection of Blame Attribution in News Media / <a href ="https://www.cais-research.de/creating-spaces-for-digital-futures-program" target="_blank">Creating Spaces for Digital Futures</a> at Center for Advanced Internet Studies (CAIS), Bochum, Germany
+
+<br><b>28.08.2025</b> - <a href="https://ecpr.eu/Events/Event/PaperDetails/82278" target ="_blank">Paper Presentation</a> / Deepening Inequalities or Bridging Divides? Tracing Racist Language in German News Media Over Time / <a href ="https://ecpr.eu/Events/Event/PanelDetails/15950" target="_blank">Panel: Representation at the Crossroads: The Dynamics of Inclusion and Exclusion in Media and Parliamentary Debates</a> / <a href="https://ecpr.eu/Events/269" target="_blank">ECPR General Conference 2025</a> at Aristotle University of Thessaloniki, Greece
+
+<br><b>15. & 16.05.2025</b> -<a href="files/Inequality_CSS_Kathirgamalingam_Poster.pdf" target ="_blank">Poster Presentation</a> / Tracing Racism in Textual Data: A CSS Perspective / <a href ="https://computational-social-science.org/workshops/2025.html" target="_blank">CSS & Inequality</a> at University of Mannheim, Germany
 
 <b>13.05.2025</b> - Workshop / <a href="https://www.cais-research.de/event/module-4-advanced-segment-workshop-from-awareness-to-action-addressing-discrimination-and-power-in-academia/" target="_blank">From Awareness to Action: Addressing Discrimination and Power in Academia</a> / <a href="https://www.cais-research.de/en/institute/promoting-young-talent/qpd/" target ="_blank">Qualification Programme Digitalisation Research</a> at Center for Advanced Internet Studies (CAIS), Germany (hybrid)
 
-<b>26.04.2025</b> – Roundtable Discussion / Marginalized Voices and Perspectives in Computational Methods / <a href="https://www.comptextconference.org/7th-annual-comptext-conference-2025/" target="_blank">7th Annual Conference of COMPTEXT</a> at University of Vienna, Austria
+<b>26.04.2025</b> – Roundtable Discussion / Marginalized Voices and Perspectives in Computational Methods / with Angelie Kraft (weizenbaum, Germany) & Indira Sen (University of Mannheim, Germany) / <a href="https://www.comptextconference.org/7th-annual-comptext-conference-2025/" target="_blank">7th Annual Conference of COMPTEXT</a> at University of Vienna, Austria
 
 
 latest publications.
