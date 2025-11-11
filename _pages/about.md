@@ -11,7 +11,7 @@ redirect_from:
 Hi. I am a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, I am investigating the chances and challenges of automating racism detection in textual data. Further, I am an external lecturer at <a href="https://www.sozwiss.hhu.de/" target ="_blank">Heinrich-Heine-University Düsseldorf</a>. My research interests include political phenomena such as polarization and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
 
 <br>
-<h3><b>recent.</b></h3>
+<h2><b>recent.</b></h2>
 
 <br><b>10.10.2025</b> - Moderation / Academic Freedom: Foundations for the Future / with Ina Brandes (Minister for Culture and Science of the State of North Rhine-Westphalia) , Manfred Bayer (TU Dortmund, Germany), Katrin Weller (Heinrich-Heine-University Düsseldorf, Germany | GESIS, Germany) & Tim Majchrzak (CAIS, Germany) / <a href ="https://www.cais-research.de/creating-spaces-for-digital-futures-program" target="_blank">Creating Spaces for Digital Futures</a> at Center for Advanced Internet Studies (CAIS), Bochum, Germany
 <br><br>
@@ -26,8 +26,8 @@ Hi. I am a research associate at the <a href="https://www.cais-research.de/" tar
 <b>26.04.2025</b> – Roundtable Discussion / Marginalized Voices and Perspectives in Computational Methods / with Angelie Kraft (weizenbaum, Germany) & Indira Sen (University of Mannheim, Germany) / <a href="https://www.comptextconference.org/7th-annual-comptext-conference-2025/" target="_blank">7th Annual Conference of COMPTEXT</a> at University of Vienna, Austria
 
 
-latest publications.
-======
+<h2><b>latest publications.</b></h2>
+
 <br><b>Kathirgamalingam, A.</b>, Lind, F., & Boomgaarden, H. G. (2025). Measuring racism and related concepts using computational text-as-data approaches: a systematic literature review. Annals of International Communication Association, wlaf013, <a href=" https://doi.org/10.1093/anncom/wlaf013" target="_blank">https://doi.org/10.1093/anncom/wlaf013</a>
 <br><br>
 Lind, F., Song, H., Boomgaarden, H. G., <b>Kathirgamalingam, A.</b>, Song, H., Syed Ali, K., & Vliegenthart, R. (2025). Research Practices in Comparative Communication Research: Visibility, Topical and Geographical Disparities, and their Longitudinal Patterns. International Journal of Communication, 19(26), 1103-1128. <a href="https://ijoc.org/index.php/ijoc/article/view/23510" target="_blank">https://ijoc.org/index.php/ijoc/article/view/23510</a>
