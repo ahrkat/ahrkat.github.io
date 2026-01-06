@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <br />
-Hi. I am a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Social Cohesion in Digital Media Environments’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, I am investigating the chances and challenges of automating racism detection in textual data. Further, I am an external lecturer at <a href="https://www.sozwiss.hhu.de/" target ="_blank">Heinrich-Heine-University Düsseldorf</a>. My research interests include political phenomena such as polarization and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
+Hi. I am a postdoctoral research associate at <a href="https://www.gesis.org/en/home" target="_blank">GESIS</a> (Germany) in the <a href="https://www.gesis.org/en/institute/about-us/departments/computational-social-science" target="_blank"> Computational Social Science (CSS)</a> department and the team <a href="https://www.gesis.org/en/institute/about-us/staff/orga/tiles/5/74?cHash=8fbd330b798c8dd7cb84097ddfd82054" target="_blank">Transparent Social Analytics</a>. In my current role, I support the <a href="https://methodshub.gesis.org/" target="_blank">Methods Hub</a>, an open community platform that brings together tools, tutorials and other resources for computational social science methods. Further, I am an external lecturer at <a href="https://www.sozwiss.hhu.de/" target ="_blank">Heinrich-Heine-University Düsseldorf</a>.<br><br>
+Before, I was a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Transformation of Digital Democratic Discourses’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, I investigated the chances and challenges of automating racism detection in textual data.<br><br>
+My research interests include political phenomena such as polarization, racism and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
 
 <br>
 <h2><b>recent.</b></h2>
@@ -28,7 +30,9 @@ Hi. I am a research associate at the <a href="https://www.cais-research.de/" tar
 
 <h2><b>latest publications.</b></h2>
 
-<br><b>Kathirgamalingam, A.</b>, Lind, F., & Boomgaarden, H. G. (2025). Measuring racism and related concepts using computational text-as-data approaches: a systematic literature review. Annals of International Communication Association, wlaf013, <a href=" https://doi.org/10.1093/anncom/wlaf013" target="_blank">https://doi.org/10.1093/anncom/wlaf013</a>
+<br><b>Kathirgamalingam, A.</b>, Kulichkina, A., Bernhard-Harrer, J., & Hase, V. (2025). Reflecting on Social Bias: Challenges and Opportunities for Computational Social Science. [Preprint] <a href="https://osf.io/preprints/socarxiv/xr45y_v1" target="_blank">https://osf.io/preprints/socarxiv/xr45y</a> 
+<br><br>
+<b>Kathirgamalingam, A.</b>, Lind, F., & Boomgaarden, H. G. (2025). Measuring racism and related concepts using computational text-as-data approaches: a systematic literature review. Annals of International Communication Association, wlaf013, <a href=" https://doi.org/10.1093/anncom/wlaf013" target="_blank">https://doi.org/10.1093/anncom/wlaf013</a>
 <br><br>
 Lind, F., Song, H., Boomgaarden, H. G., <b>Kathirgamalingam, A.</b>, Song, H., Syed Ali, K., & Vliegenthart, R. (2025). Research Practices in Comparative Communication Research: Visibility, Topical and Geographical Disparities, and their Longitudinal Patterns. International Journal of Communication, 19(26), 1103-1128. <a href="https://ijoc.org/index.php/ijoc/article/view/23510" target="_blank">https://ijoc.org/index.php/ijoc/article/view/23510</a>
 <br><br>
