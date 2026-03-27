@@ -13,9 +13,23 @@ Before, I was a research associate at the <a href="https://www.cais-research.de/
 My research interests include political phenomena such as polarization, racism and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
 
 <br>
+<h2><b>upcoming.</b></h2>
+
+<br><b>23.04.2026</b> - Workshop / Biased by Design? Unpacking Social Bias in Computational Social Science / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
+<br><br>
+<b>25.04.20526</b> - Paper Presentation / Same text, different feelings? Coder bias in sentiment analysis of political news content / with Jana Bernhard-Harrer & Hajo G. Boomgaarden / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
+<br><br>
+<b>25.04.20526</b> - Paper Presentation / Let's make it about migration: The explicit and implicit presence of migration in parliamentary debates in Austria and Germany / with Tobias Heidenreich & Olga Eisele / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
+<br><br>
+<b>25.04.20526</b> - Tool demo / Methods Hub – An open-source tool repository and learning resource for computational methods in the social sciences / with Christina Viehmann, Chung-hong Chan and Felix Victor Münch / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
+<br><br>
+
+
 <h2><b>recent.</b></h2>
 
-<br><b>10.10.2025</b> - Moderation / Academic Freedom: Foundations for the Future / with Ina Brandes (Minister for Culture and Science of the State of North Rhine-Westphalia) , Manfred Bayer (TU Dortmund, Germany), Katrin Weller (Heinrich-Heine-University Düsseldorf, Germany | GESIS, Germany) & Tim Majchrzak (CAIS, Germany) / <a href ="https://www.cais-research.de/creating-spaces-for-digital-futures-program" target="_blank">Creating Spaces for Digital Futures</a> at Center for Advanced Internet Studies (CAIS), Bochum, Germany
+<br><b>03.02.2026</b> - Workshop / Biased by Design? Unpacking Social Bias in CSS / <a href ="https://research.qut.edu.au/dmrc/research-training/dmrc-summer-school/" target="_blank">DMRC Summer School 2026</a> at Digital Media Research Centre, Queensland University of Technology, Brisbane, Australia
+<br><br>
+<b>10.10.2025</b> - Moderation / Academic Freedom: Foundations for the Future / with Ina Brandes (Minister for Culture and Science of the State of North Rhine-Westphalia) , Manfred Bayer (TU Dortmund, Germany), Katrin Weller (Heinrich-Heine-University Düsseldorf, Germany | GESIS, Germany) & Tim Majchrzak (CAIS, Germany) / <a href ="https://www.cais-research.de/creating-spaces-for-digital-futures-program" target="_blank">Creating Spaces for Digital Futures</a> at Center for Advanced Internet Studies (CAIS), Bochum, Germany
 <br><br>
 <b>09.10.2025</b> - Paper Presentation / Unpacking the Blame Game? Opportunities and Barriers to Automated Detection of Blame Attribution in News Media / <a href ="https://www.cais-research.de/creating-spaces-for-digital-futures-program" target="_blank">Creating Spaces for Digital Futures</a> at Center for Advanced Internet Studies (CAIS), Bochum, Germany
 <br><br>
