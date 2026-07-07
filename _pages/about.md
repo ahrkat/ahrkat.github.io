@@ -15,15 +15,7 @@ My research interests include political phenomena such as polarization, racism a
 <br>
 <h2><b>upcoming.</b></h2>
 
-<br><b>23.04.2026</b> - Workshop / Biased by Design? Unpacking Social Bias in Computational Social Science / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
-<br><br>
-<b>25.04.2026</b> - Paper Presentation / Same text, different feelings? Coder bias in sentiment analysis of political news content / with Jana Bernhard-Harrer & Hajo G. Boomgaarden / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
-<br><br>
-<b>25.04.2026</b> - Paper Presentation / Let's make it about migration: The explicit and implicit presence of migration in parliamentary debates in Austria and Germany / with Tobias Heidenreich & Olga Eisele / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
-<br><br>
-<b>25.04.2026</b> - Tool demo / Methods Hub – An open-source tool repository and learning resource for computational methods in the social sciences / with Christina Viehmann, Chung-hong Chan and Felix Victor Münch / <a href ="[https://www.cais-research.de/creating-spaces-for-digital-futures-program](https://www.comptextconference.org/8th-annual-conference-2026/)" target="_blank">COMPTEXT 2026 </a> at The University of Birmingham, UK
-<br><br>
-
+<br><b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
 
 <h2><b>recent.</b></h2>
 
