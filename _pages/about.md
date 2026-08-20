@@ -14,11 +14,10 @@ My research interests include political phenomena such as polarization, racism a
 
 <br>
 <h2><b>upcoming.</b></h2>
-
-<br><b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
+<b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
 
 <h2><b>recent.</b></h2>
-<br><b>22.06.2026</b> - Keynote lecture / <a href="https://sicss.io/2026/melbourne/training" target ="_blank">Social Bias in Computational Social Science</a>  / SICSS Summer Institute for Computational Social Science, Melbourne, Australia
+<b>22.06.2026</b> - Keynote lecture / <a href="https://sicss.io/2026/melbourne/training" target ="_blank">Social Bias in Computational Social Science</a>  / SICSS Summer Institute for Computational Social Science, Melbourne, Australia
 <br><br>
 <b>03.02.2026</b> - Workshop / Biased by Design? Unpacking Social Bias in CSS / <a href ="https://research.qut.edu.au/dmrc/research-training/dmrc-summer-school/" target="_blank">DMRC Summer School 2026</a> at Digital Media Research Centre, Queensland University of Technology, Brisbane, Australia
 <br><br>
@@ -26,7 +25,6 @@ My research interests include political phenomena such as polarization, racism a
 <br><br>
 
 <h2><b>latest publications.</b></h2>
-<br>
 You can find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 <br>
 <br><b>Kathirgamalingam, A.</b>, Kulichkina, A., Bernhard-Harrer, J., & Hase, V. (2025). Reflecting on Social Bias: Challenges and Opportunities for Computational Social Science. [Preprint] <a href="https://doi.org/10.31235/osf.io/xr45y_v2" target="_blank">https://doi.org/10.31235/osf.io/xr45y_v2</a>
