@@ -18,7 +18,8 @@ My research interests include political phenomena such as polarization, racism, 
 <br>
 
 <h2><b>recent.</b></h2>
-<b>22.06.2026</b> - Keynote lecture / <a href="https://sicss.io/2026/melbourne/training" target ="_blank">Social Bias in Computational Social Science</a>  / SICSS Summer Institute for Computational Social Science, Melbourne, Australia
+<b>22.06.2026</b> - Guest lecture / Contested constructs and how to find them (in textual data)  / Department of Media and Communication Studies, Freie Universität Berlin, Germany
+<br><br><b>22.06.2026</b> - Keynote lecture / <a href="https://sicss.io/2026/melbourne/training" target ="_blank">Social Bias in Computational Social Science</a>  / SICSS Summer Institute for Computational Social Science, Melbourne, Australia
 <br><br>
 <b>03.02.2026</b> - Workshop / Biased by Design? Unpacking Social Bias in CSS / <a href ="https://research.qut.edu.au/dmrc/research-training/dmrc-summer-school/" target="_blank">DMRC Summer School 2026</a> at Digital Media Research Centre, Queensland University of Technology, Brisbane, Australia
 <br><br>
