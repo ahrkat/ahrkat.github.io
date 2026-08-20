@@ -18,7 +18,8 @@ My research interests include political phenomena such as polarization, racism a
 <br><b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
 
 <h2><b>recent.</b></h2>
-
+<b>22.06.2026</b> - Keynote lecture / <a href="https://sicss.io/2026/melbourne/training" target ="_blank">Social Bias in Computational Social Science</a>  / SICSS Summer Institute for Computational Social Science, Melbourne, Australia
+<br><br>
 <br><b>03.02.2026</b> - Workshop / Biased by Design? Unpacking Social Bias in CSS / <a href ="https://research.qut.edu.au/dmrc/research-training/dmrc-summer-school/" target="_blank">DMRC Summer School 2026</a> at Digital Media Research Centre, Queensland University of Technology, Brisbane, Australia
 <br><br>
 <b>10.10.2025</b> - Moderation / Academic Freedom: Foundations for the Future / with Ina Brandes (Minister for Culture and Science of the State of North Rhine-Westphalia) , Manfred Bayer (TU Dortmund, Germany), Katrin Weller (Heinrich-Heine-University Düsseldorf, Germany | GESIS, Germany) & Tim Majchrzak (CAIS, Germany) / <a href ="https://www.cais-research.de/creating-spaces-for-digital-futures-program" target="_blank">Creating Spaces for Digital Futures</a> at Center for Advanced Internet Studies (CAIS), Bochum, Germany
