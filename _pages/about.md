@@ -27,8 +27,7 @@ My research interests include political phenomena such as polarization, racism a
 
 <h2><b>latest publications.</b></h2>
 <br>
-
-<div class="wordwrap">You can find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+You can find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 <br>
 <br><b>Kathirgamalingam, A.</b>, Kulichkina, A., Bernhard-Harrer, J., & Hase, V. (2025). Reflecting on Social Bias: Challenges and Opportunities for Computational Social Science. [Preprint] <a href="https://doi.org/10.31235/osf.io/xr45y_v2" target="_blank">https://doi.org/10.31235/osf.io/xr45y_v2</a>
 <br><br>
