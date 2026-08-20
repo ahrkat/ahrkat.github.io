@@ -36,7 +36,7 @@ My research interests include political phenomena such as polarization, racism a
 
 <h2><b>latest publications.</b></h2>
 
-<br><b>Kathirgamalingam, A.</b>, Kulichkina, A., Bernhard-Harrer, J., & Hase, V. (2025). Reflecting on Social Bias: Challenges and Opportunities for Computational Social Science. [Preprint] <a href="https://osf.io/preprints/socarxiv/xr45y_v1" target="_blank">https://osf.io/preprints/socarxiv/xr45y</a> 
+<br><b>Kathirgamalingam, A.</b>, Kulichkina, A., Bernhard-Harrer, J., & Hase, V. (2025). Reflecting on Social Bias: Challenges and Opportunities for Computational Social Science. [Preprint] <a href="https://doi.org/10.31235/osf.io/xr45y_v2" target="_blank">https://doi.org/10.31235/osf.io/xr45y_v2</a>
 <br><br>
 <b>Kathirgamalingam, A.</b>, Lind, F., & Boomgaarden, H. G. (2025). Measuring racism and related concepts using computational text-as-data approaches: a systematic literature review. Annals of International Communication Association, wlaf013, <a href=" https://doi.org/10.1093/anncom/wlaf013" target="_blank">https://doi.org/10.1093/anncom/wlaf013</a>
 <br><br>
