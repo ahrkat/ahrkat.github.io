@@ -12,7 +12,6 @@ Hi. I am a postdoctoral research associate at <a href="https://www.gesis.org/en/
 Before, I was a research associate at the <a href="https://www.cais-research.de/" target="_blank">Center for Advanced Internet Studies</a> (Germany) in the research groups ‘Transformation of Digital Democratic Discourses’ and ‘Research Data and Methods’. As a PhD student at the <a href="https://compcommlab.univie.ac.at/" target="_blank">‘Computational Communication Science Lab’</a> at the University of Vienna, I investigated the chances and challenges of automating racism detection in textual data.<br><br>
 My research interests include political phenomena such as polarization, racism, and migration in mediated discourses, as well as methodological questions relating to social bias and Computational Social Science.<br>
 
-<br>
 <h2><b>upcoming.</b></h2>
 <b>31.08.-04.09.2026</b> - Course coordinator & instructor / Introduction to Computational Social Science in R / Python  / Fall Seminar in Computational Social Science / GESIS, Online
 <br><br><b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
