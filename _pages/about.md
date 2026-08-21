@@ -14,11 +14,12 @@ My research interests include political phenomena such as polarization, racism, 
 
 <br>
 <h2><b>upcoming.</b></h2>
-<b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
+<b>31.08.-04.09.</b> - Course coordinator & instructor / Introduction to Computational Social Science in R / Python  / Fall Seminar in Computational Social Science / GESIS, Online
+<br><br><b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
 <br>
 
 <h2><b>recent.</b></h2>
-<b>22.06.2026</b> - Guest lecture / Contested constructs and how to find them (in textual data)  / Department of Media and Communication Studies, Freie Universität Berlin, Germany
+<b>06.07.2026</b> - Guest lecture / Contested constructs and how to find them (in textual data)  / Department of Media and Communication Studies, Freie Universität Berlin, Germany
 <br><br><b>22.06.2026</b> - Keynote lecture / <a href="https://sicss.io/2026/melbourne/training" target ="_blank">Social Bias in Computational Social Science</a>  / SICSS Summer Institute for Computational Social Science, Melbourne, Australia
 <br><br>
 <b>03.02.2026</b> - Workshop / Biased by Design? Unpacking Social Bias in CSS / <a href ="https://research.qut.edu.au/dmrc/research-training/dmrc-summer-school/" target="_blank">DMRC Summer School 2026</a> at Digital Media Research Centre, Queensland University of Technology, Brisbane, Australia
