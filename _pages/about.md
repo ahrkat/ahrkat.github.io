@@ -14,7 +14,7 @@ My research interests include political phenomena such as polarization, racism, 
 
 <br>
 <h2><b>upcoming.</b></h2>
-<b>31.08.-04.09.</b> - Course coordinator & instructor / Introduction to Computational Social Science in R / Python  / Fall Seminar in Computational Social Science / GESIS, Online
+<b>31.08.-04.09.2026</b> - Course coordinator & instructor / Introduction to Computational Social Science in R / Python  / Fall Seminar in Computational Social Science / GESIS, Online
 <br><br><b>23.09.2026</b> - Lecture / Ethics: Diversity in Academia / <a href ="https://caremath.github.io/" target="_blank">CARE 2026 </a> Bochum, Germany
 <br>
 
